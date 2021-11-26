@@ -1,0 +1,2 @@
+# Proyecto-sinagescore
+Elaborando SinagesCore
